@@ -1,17 +1,17 @@
-# 👪 우리.zip
+# 우리.zip
 ## 가족 간 소중한 순간을 기록하고 공유하는 AI 기반 서비스
 
 우리.zip은 가족 구성원들이 일상 사진·영상, 주차별 영상 답변, 반려동물 기록 등을 한 공간에 모아 공유할 수 있도록 제작된 서비스입니다.  AI 기반 자동 분류, 영상 요약, 웃는 썸네일 생성 등 다양한 기술을 활용하여 가족 간 소통을 더욱 쉽고 즐겁게 만들어 줍니다.
 
 ---
 
-## 🚀 About This Organization
+## About This Organization
 본 오가니제이션은 캡스톤 디자인 프로젝트를 위해 구성되었으며 프론트엔드 · 백엔드 · AI 파트가 독립된 레포지토리에서 협업을 진행합니다.
 Issues · Pull Requests · Branch 전략을 통해 기능 개발과 코드 리뷰를 체계적으로 관리했습니다.
 
 ---
 
-## 🧩 Repository Structure
+## Repository Structure
 
 | 분야 | 레포지토리 | 설명 |
 |------|-------------|------|
@@ -21,7 +21,7 @@ Issues · Pull Requests · Branch 전략을 통해 기능 개발과 코드 리�
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - 주차별 질문 제공 및 영상 답변 업로드  
 - AI 기반 자동 썸네일 생성, 제목/내용 요약, 얼굴 위치 안내  
@@ -33,7 +33,7 @@ Issues · Pull Requests · Branch 전략을 통해 기능 개발과 코드 리�
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend:** React, Vite, Zustand, React Query, TailwindCSS  
 **Backend:** Spring Boot, MySQL, AWS S3  
@@ -41,7 +41,7 @@ Issues · Pull Requests · Branch 전략을 통해 기능 개발과 코드 리�
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 | 역할 | 이름 | GitHub |
 |------|------|---------|
